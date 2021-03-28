@@ -48,7 +48,7 @@ body {
     color: white;
     cursor: pointer;
     display: inline-block;
-    background-color: #F79967;
+    background-color: #8C52FF;
     border-radius: 5px;
     padding: 10px;
     transition: 0.2s;
@@ -57,7 +57,7 @@ body {
 }
 
 .site-button:hover {
-    background-color: #EC9060;
+    background-color: #A97EFF;
     transform: translateY(1.5px);
     color: white;
 }
